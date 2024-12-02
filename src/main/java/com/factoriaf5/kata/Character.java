@@ -53,7 +53,7 @@ public class Character {
         @Override
         public String toString() {
             return "Personaje{" +
-                    "salurd=" + health +
+                    "salud=" + health +
                     ", nivel=" + level +
                     ", vida=" + life +
                     ", rango de ataque=" + attackRange +

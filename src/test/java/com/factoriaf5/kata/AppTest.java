@@ -1,8 +1,7 @@
 package com.factoriaf5.kata;
 
-import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
 
 /**
  * Unit test for simple App.
@@ -15,4 +14,6 @@ class AppTest {
     void testApp() {
         assertEquals(1, 1);
     }
+
+    
 }
